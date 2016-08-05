@@ -5,7 +5,7 @@
 ```
 $ chmod u+x convert_csv.js
 ```
-### create 'output.txt'
+### create 'file.json'
 ```
-$ ./convert_csv.js input.csv
+$ ./convert_csv.js file.csv
 ```
