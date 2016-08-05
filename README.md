@@ -1,7 +1,7 @@
 # Convert CSV
 
 ## To run:
-### make 'convert_csv.js' executable
+### install packages
 ```
 $ npm i csvtojson
 ```
